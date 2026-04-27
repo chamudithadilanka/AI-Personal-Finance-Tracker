@@ -1,13 +1,21 @@
-# Core notebook runtime
-ipykernel
-ipython
+# # Core notebook runtime
+# ipykernel
+# ipython
 
-# Notebook code dependencies
-beautifulsoup4
-openai
-python-dotenv
-requests
+# # App dependencies
+# gradio>=4.0.0
+# openai>=1.0.0
+# python-dotenv
+# tiktoken
+
+# # Web / scraping / requests
+# requests
+# beautifulsoup4
+
+# # Optional (safe to include if used elsewhere)
+# sqlite3
+
+openai>=1.0.0
+gradio>=4.0.0
+python-dotenv>=1.0.0
 tiktoken
-
-# Ollama is used via a local install and server, not a pip package.
-
