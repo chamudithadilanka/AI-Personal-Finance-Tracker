@@ -2,6 +2,16 @@
 
 A chat-based personal finance assistant powered by an AI agent that understands natural language, manages your income & expenses, and gives smart financial insights.
 
+<img width="1895" height="1018" alt="Screenshot 2026-04-29 185827" src="https://github.com/user-attachments/assets/d0ad1ff7-c793-4292-8517-92415e4f99b5" />
+<img width="1886" height="986" alt="Screenshot 2026-04-29 185912" src="https://github.com/user-attachments/assets/591582c8-c93b-46e0-8f34-4d53ba71bd49" />
+<img width="1888" height="912" alt="Screenshot 2026-04-29 190258" src="https://github.com/user-attachments/assets/a529ea96-c772-45d5-a9c4-69fe9b645fda" />
+<img width="1867" height="888" alt="Screenshot 2026-04-29 190539" src="https://github.com/user-attachments/assets/c84b4d2f-54f8-4c20-8e4e-25186fae7acf" />
+<img width="1806" height="956" alt="Screenshot 2026-04-29 190604" src="https://github.com/user-attachments/assets/bc995b64-cf1a-447a-8588-276c75c0b1b2" />
+<img width="1896" height="936" alt="Screenshot 2026-04-29 191000" src="https://github.com/user-attachments/assets/edfdd226-b101-4b96-a5a0-f1421eaf6f3d" />
+<img width="1852" height="927" alt="Screenshot 2026-04-29 191246" src="https://github.com/user-attachments/assets/01029089-b62f-4ab8-9d95-45f2d9071cc8" />
+<img width="1825" height="872" alt="Screenshot 2026-04-29 191904" src="https://github.com/user-attachments/assets/c36c8b2f-a06a-48ac-990a-da65b5ca0933" />
+
+
 Built as part of CAIEP L1 — Noob Dev Certified AI Engineer Program.
 
 🚀 Features
