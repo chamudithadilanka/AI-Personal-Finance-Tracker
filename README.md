@@ -12,6 +12,8 @@ A chat-based personal finance assistant powered by an AI agent that understands 
 <img width="1825" height="872" alt="Screenshot 2026-04-29 191904" src="https://github.com/user-attachments/assets/c36c8b2f-a06a-48ac-990a-da65b5ca0933" />
 
 
+
+
 Built as part of CAIEP L1 — Noob Dev Certified AI Engineer Program.
 
 🚀 Features
